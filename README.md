@@ -47,4 +47,4 @@ int y;
 
 ### Equation
 
-$$ e = mc^2 $$
+$$ e = mc^3 $$
